@@ -1,5 +1,5 @@
 body {
-    background-image: url(.jpg);
+    background-image:url(oppa.jpg);
     width: 100%;
   }
   a{
